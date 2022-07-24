@@ -9,3 +9,16 @@
 
 # Overview of the statistical analysis:
 A potential investor for a bike riding startup in Des Moines requested data for a business plan on future revenue streams using a similar Citibike business model in New York City.  We were able to use August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for a new startup in Des Moines.  Other data points include usage durations, peak usage times, and the key target market. 
+.
+
+# links to CitiBike Analysis ....
+
+https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet1?publish=yes
+
+https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet2?publish=yes
+
+https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet3?publish=yes
+
+https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet4?publish=yes
+
+https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet5

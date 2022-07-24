@@ -12,33 +12,34 @@ A potential investor for a bike riding startup in Des Moines requested data for 
 .
 
 # links to CitiBike Analysis ....
-. Checkout Times for All Users
-Checkout Times for All Users
-**The Citibikes usage reaches a top of 3000 minutes per user.
+
+**1-Checkout Times for All Users
+
+The Citibikes usage reaches a top of 3000 minutes per user.
 
 https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet1?publish=yes
 
 
-**Checkout Times by Gender
+**2- Checkout Times by Gender
 
 Checkout Times by Gender Males are significantly higher users than others.
 
 https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet2?publish=yes
 
 
-**Trips (Weekday per Hour)
+**3- Trips (Weekday per Hour)
 
 Trips (Weekday per Hour) 6-10 am and 5-8 PM are peak riding hours during the weekday and 5 am to 10 pm on the weekends
 
 https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet3?publish=yes
  
-  **Trips by Gender (Weekday per Hour)
+  **4- Trips by Gender (Weekday per Hour)
   
 Trips by Gender (Weekday per Hour) Males are high users during the peak hours.
 
 https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet4?publish=yes
   
-  **Trips by Gender and User Type (Weekday per Hour)
+  **5- Trips by Gender and User Type (Weekday per Hour)
   
 Trips by Gender and User Type  Males subscribers are the highest users followed by female subscribers.
 

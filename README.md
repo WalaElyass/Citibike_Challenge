@@ -12,8 +12,12 @@ A potential investor for a bike riding startup in Des Moines requested data for 
 .
 
 # links to CitiBike Analysis ....
+. Checkout Times for All Users
+Checkout Times for All Users The Citibikes usage reaches a top of 3000 minutes per user.
 
 https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet1?publish=yes
+
+
 
 https://public.tableau.com/app/profile/wala.elyass/viz/challangecitibike/Sheet2?publish=yes
 
